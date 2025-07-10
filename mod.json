@@ -8,7 +8,7 @@
 	},
 	"id": "fryy_55.copy-paste-groups",
 	"name": "Copy/Paste Groups",
-	"version": "v1.0.0",
+	"version": "v1.0.0-beta",
 	"developer": "Fryy_55",
 	"description": "Copy/paste just groups between objects",
 	"tags": [
@@ -24,6 +24,10 @@
 		"geode.node-ids": {
 			"version": ">=v1.20.1",
 			"importance": "required"
+		},
+		"alphalaneous.improved_group_view": {
+			"version": ">=1.0.16",
+			"importance": "suggested"
 		}
 	}
 }
